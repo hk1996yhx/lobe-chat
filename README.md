@@ -357,7 +357,7 @@ providing smooth animations, responsive layouts, and adapting to different devic
 > - Visit the LobeChat webpage.
 > - In the upper right corner of the address bar, click on the <kbd>Install</kbd> icon.
 > - Follow the instructions on the screen to complete the PWA Installation.
-
+321
 <div align="right">
 
 [![][back-to-top]](#readme-top)
